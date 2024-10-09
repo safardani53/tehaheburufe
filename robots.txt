@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tehaheburufe.pages.dev/sitemap.xml
